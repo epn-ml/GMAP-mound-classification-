@@ -3,8 +3,16 @@
 ### Install Environment
 `conda env create -f environment.yml`
 
-### Pull Lfs data
+### Download the data 
+https://figshare.com/articles/dataset/Mound_Segmentation_Data/21180661
+
+Source data can also be pulled from git-lfs
 `git lfs pull`
+
+
+### Download the saved models
+https://figshare.com/articles/software/saved_models_zip/21180445
+
 
 ### Notebooks:
 - 01-data-exploration.ipynb
@@ -12,6 +20,7 @@
 - 02-features.ipynb: feature preparation
 
 - 03-segmentation.ipynb
+  
 
 ### Acknowledgement
 
