@@ -1,0 +1,43 @@
+# metadata
+title: Detection of mound like features in DTMs from Mars Arabia Terra
+abstract: In this work, we deploy semantic segmentation methods to detect mounds in DTMs.
+keyword: Semantic Segmentation, Neural Networks, Planetary Science
+documentation: # 
+landingPage: #Landing page
+version: # major.minor.build (e.g. 0.1.0)
+issued: #release date
+gitRepository: #"https://github.com/epn-ml/GMAP-mound-classification-.git"
+citation: #Citation
+copyright: #copyright information
+distribution:
+  license: GPL
+doi:
+  creator: #URL to DOI registration agency
+  notation: #DOI
+  schemaAgency: #Agency where DOI was registered
+funding: Europlanet RI 2024
+funder: Horizon 2020/EU commission
+project: #Project
+contactPoint:
+  email: #
+  id: #URI of the contact point
+  organisation-name: #
+  role: #Name of the contact point
+  url: #URL of the organisation or contact point
+creator:
+  homepage: #Homepage of the organization
+  id: #ID of the organisation
+  logo: #Logo of the organization
+  name: #Name of the organization
+  nick: #Short name of the organization
+author:
+    name: Sahib Julka
+    email: sahib.julka@uni-passau.de
+    URI: #
+    affiliation: University of Passau
+publisher:
+  homepage: #URL
+  id: #URI of the publisher
+  logo: #URI to logo image for the organisation
+  name: #name of the organisation
+  nick: #short name / acronym of organisation
