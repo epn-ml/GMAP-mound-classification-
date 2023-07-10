@@ -1,26 +1,24 @@
 # Semantic Segmentation on Martian DEMs for automatic detection of mounds.
 
-### Install Environment
-`conda env create -f environment.yml`
+1. Install Environment:
 
-### Download the data 
-https://figshare.com/articles/dataset/Mound_Segmentation_Data/21180661
+  `conda env create -f environment.yml`
 
-Source data can also be pulled from git-lfs
-`git lfs pull`
+3. Download the data: https://figshare.com/articles/dataset/Mound_Segmentation_Data/21180661
 
+  Source data can also be pulled from git-lfs:
+  `git lfs pull`
 
-### Download the saved models
-https://figshare.com/articles/software/saved_models_zip/21180445
+3. Download the saved models and save them under `weights` folder: https://figshare.com/articles/software/saved_models_zip/21180445
 
-
-### Notebooks:
-- 01-data-exploration.ipynb
-
-- 02-features.ipynb: feature preparation
-
-- 03-segmentation.ipynb
+5. Data exploration and experiments are contained in the following notebooks:
   
+   01-data-exploration.ipynb
+  
+   02-features.ipynb: feature preparation
+  
+   03-segmentation.ipynb
+    
 
 ### Acknowledgement
 
